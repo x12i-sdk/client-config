@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Framework-agnostic browser runtime config: typed schemas, validation, local persistence, sensitive-field handling, and optional encryption.
-- A Client integration needs to reuse the capabilities of @x12i/client-config inside a larger application.
+- Validate and persist browser runtime settings through an explicit schema.
+- Handle sensitive configuration fields with the supported persistence and encryption options.
 
 ## Links
 
