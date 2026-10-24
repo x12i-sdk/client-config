@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/client-config",
+  "packageVersion": "1.5.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/client-config",
+  "usageRepository": "https://github.com/x12i-sdk/client-config",
+  "sourceRepository": "https://github.com/x12i/client-config",
+  "sourceCommit": "36851b480fa9796774bfd70d45a3e59dadb1ec60",
+  "sourcePackageDirectory": ".",
+  "example": {
+    "title": "Save and reload typed runtime settings in memory",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T12:32:54.196554+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "a9c9af9b98b1ec490caa0fb2c77725fe27677aa52dce79144f1fef20f04022f9",
+    "manifestSha256": "92ab153e777fa24c2fc664ea5bd3fbb5c147f9685a9e28e8cdfadd9d3f0949e4"
+  }
+}

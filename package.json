@@ -1,0 +1,22 @@
+{
+  "name": "client-config-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/client-config: save and reload typed runtime settings in memory.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/client-config": "1.5.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/client-config.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/client-config"
+}
